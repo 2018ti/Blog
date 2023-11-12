@@ -1,4 +1,4 @@
-package com.xiaoyagao.domain;
+package com.xiaoyagao.domain.entity;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.xiaoyagao.enums.AppHttpCodeEnum;
 
